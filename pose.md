@@ -1,12 +1,12 @@
 The pose
 --------
 
-Head:
+Head: straight
 
-Left arm:
+Left arm: straight
 
-Right arm:
+Right arm: straight
 
-Left leg:
+Left leg: straight
 
-Right leg:
+Right leg: straight
