@@ -10,3 +10,5 @@ Right arm: hand raised
 Left leg: straight
 
 Right leg: straight
+
+Change made by rovitotv hypersonic pose
