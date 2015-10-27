@@ -5,7 +5,7 @@ Head: straight
 
 Left arm: straight
 
-Right arm: straight
+Right arm: hand raised
 
 Left leg: straight
 
